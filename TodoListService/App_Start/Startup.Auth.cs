@@ -26,6 +26,7 @@ using Microsoft.Owin.Security.ActiveDirectory;
 using Owin;
 using System.Configuration;
 using System.IdentityModel.Tokens;
+using Microsoft.IdentityModel.Tokens;
 
 namespace TodoListService
 {
